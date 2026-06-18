@@ -12,7 +12,7 @@ TV_COLOR = "#002FA7"
 st.markdown("""
 ### So verwenden Sie dieses Tool
 - Wählen Sie aus, wie der Terminal Value berechnet werden soll.
-- Wählen Sie bei der Wachstumsmethode eine langfristige Wachstumsrate.
+- Wählen Sie bei der Wachstumsmethode eine langfristige Wachstumsrate und einen Diskontsatz.
 - Wählen Sie bei der Exit-Multiple-Methode ein Exit Multiple.
 - Das Tool zeigt, wie sich die Annahmen zum Terminal Value auf den Gesamtwert auswirken.
 """)
